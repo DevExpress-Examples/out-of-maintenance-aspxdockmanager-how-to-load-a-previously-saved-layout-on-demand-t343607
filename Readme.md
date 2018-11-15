@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LayoutDataParser.cs](./CS/App_Code/LayoutDataParser.cs) (VB: [LayoutDataParser.vb](./VB/App_Code/LayoutDataParser.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxDockManager - How to load a previously saved layout on demand
 
 
